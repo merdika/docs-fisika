@@ -10,3 +10,7 @@ Untuk masuk ke aplikasi, diperlukan Nama Pengguna. Nama Pengguna diberikan oleh 
 
 ## Kata Kunci
 Kata Kunci pada awalnya diberikan oleh Admin dan dapat diubah jika sudah login.
+
+1. minimal
+
+karena memiliki keterbatasan tertentu dan boleh masuk jika memenuhi persyaratan tertentu
