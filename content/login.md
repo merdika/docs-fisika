@@ -14,3 +14,7 @@ Kata Kunci pada awalnya diberikan oleh Admin dan dapat diubah jika sudah login.
 1. minimal
 
 karena memiliki keterbatasan tertentu dan boleh masuk jika memenuhi persyaratan tertentu
+1. maksimal 50
+   
+tidak dapat di ubah kecuali dengan admin website
+
