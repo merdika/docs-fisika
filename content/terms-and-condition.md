@@ -3,4 +3,4 @@ title: Halaman Syarat dan Ketentuan Kami
 description: Memuat syarat dan ketentuan website
 ---
 
-halaman ini berfungsi untuk 
+Halaman ini memberikan informasi Syarat dan Ketentuan Website 
