@@ -14,8 +14,8 @@ Pastikan anda memiliki Nama Pengguna yang terdiri dari minimal 5 (lima) hurup da
 ## Kata Kunci
 Kata Kunci pada awalnya diberikan oleh Admin dan dapat diubah secara mandiri setelah masuk ke Website. 
 ### Persyaratan Kata Kunci
-Pastikan anda memiliki Kata Kunci yang terdiri dari minimal 5 (lima) hurup dan maksimal 50 (lima puluh) hurup. dan wajib memiliki minimal
-8 karakter
+Pastikan Anda memiliki Kata Kunci yang terdiri dari minimal 5 (lima) hurup dan maksimal 50 (lima puluh) hurup. dan wajib memiliki minimal
+8 karakter yang harus dimiliki oleh Anda.
 
 
 
