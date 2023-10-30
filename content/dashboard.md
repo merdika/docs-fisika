@@ -9,7 +9,7 @@ Modul Dashboard dalam aplikasi website fisika
 
 ## Bobot Total
 
-## Peringkat 
+## Peringkat
 
 ## Syarat Unggul
 
