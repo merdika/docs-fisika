@@ -19,4 +19,4 @@ Kata Kunci pada awalnya diberikan oleh Admin dan dapat diubah secara mandiri set
 
 ### Persyaratan Kata Kunci
 
-Pastikan Anda memiliki Kata Kunci yang terdiri dari minimal 8 (delapan) karakter yang harus dimiliki oleh Anda.
+Pastikan Anda memiliki Kata Kunci yang terdiri dari minimal 8 (delapan) karakter yang harus dimiliki oleh Anda, dan Anda bisa menggunakan karakter yang terlarang di persyaratan Nama Pengguna.
