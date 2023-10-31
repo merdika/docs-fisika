@@ -6,7 +6,7 @@ description: Gerbang awal untuk masuk ke aplikasi.
 > Halaman ini adalah halaman awal yang menjadi gerbang untuk masuk ke aplikasi, yang akan memberikan petunjuk atau informasi sebelum anda pindah ke halaman lain.
 
 ## Nama Pengguna
-Anda bebas untuk memilih Nama Pengguna yang kalian sukai tanpa menyinggung orang lain, kami menyarankan untuk Anda supaya memilih Nama Pengguna yang berlaku lama untuk digunakan, dan Nama Pengguna ini akan digunakan untuk masuk ke aplikasi.
+Nama pengguna akan dibuat dan diberikan oleh admin kepada masing-masing pengguna yang akan digunakan untuk masuk ke website serta pengguna tidak dapat merubahnya.
 
 ### Persyaratan Nama Pengguna
 
@@ -14,7 +14,7 @@ Anda bebas untuk memilih Nama Pengguna yang kalian sukai tanpa menyinggung orang
 
 ## Kata Kunci
 
-Kata Kunci pada awalnya diberikan oleh Admin dan dapat diubah secara mandiri setelah masuk ke Website, Sebuah Kata Kunci tidak bisa memuat kata yang panjang, kami menyarankan kepada Anda, Kata Kunci tersebut harus singkat, padat, dan jelas, supaya mudah diingat.
+Kata Kunci pada awalnya diberikan oleh Admin dan dapat diubah secara mandiri setelah masuk ke Website, sebuah Kata Kunci tidak bisa memuat kata yang panjang, kami menyarankan kepada Anda, Kata Kunci tersebut harus singkat, padat, dan jelas, supaya mudah diingat.
 
 ### Persyaratan Kata Kunci
 
