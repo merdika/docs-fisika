@@ -3,7 +3,7 @@ title: Halaman Masuk
 description: Gerbang awal untuk masuk ke aplikasi.
 ---
 
-> Halaman ini adalah halaman awal yang menjadi gerbang untuk masuk ke aplikasi, dan kami akan memberikan petunjuk atau informasi sebelum anda pindah ke halaman lain.
+> Halaman ini adalah halaman awal yang menjadi gerbang untuk masuk ke aplikasi, yang akan memberikan petunjuk atau informasi sebelum anda pindah ke halaman lain.
 
 ## Nama Pengguna
 Anda bebas untuk memilih Nama Pengguna yang kalian sukai tanpa menyinggung orang lain, dan kami menyarankan untuk Anda supaya memilih Nama Pengguna yang berlaku lama untuk digunakan, dan Nama Pengguna ini akan digunakan untuk masuk ke aplikasi.
