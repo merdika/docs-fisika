@@ -11,12 +11,4 @@ Anda mengakui bahwa Anda telah membaca, memahami, dan setuju untuk terikat denga
 
 Silakan pelajari [Kebijakan Privasi](/docs/privacy) dan Kebijakan Kuki, yang juga berlaku pada kunjungan Anda ke Situs ini.
 
-## Skor Total
 
-## Bobot Total
-
-## Peringkat
-
-## Syarat Unggul
-
-## Informasi Kriteria
