@@ -19,6 +19,8 @@ mengubah skor mentah menjadi skor terjabar berdasarkan kriteria dan norma terten
 ## Peringkat
 
 ## Syarat Unggul
+Pemenuhan syarat peringkat unggul program studi Sarjana dan Sarjana Terapan
+|no|
 
 ## Informasi Kriteria
 Informasi kriteria mencakup total skor per kriteria dari status yang sudah/belum selesai. 
@@ -29,11 +31,14 @@ Kolom **No** menampilkan nomor dari masing-masing baris nama kriteria.
 ### Nama Kriteria
 Kolom **Nama Kriteria** menampilkan masing-masing judul Nama Kriteria.
 
-### Perkembangan
-Kolom **Perkembangan** menampilkan jumlah persentase pengerjaan dari masing-masing Kriteria, dimana jika persentase sudah 100% maka Bar akan berwarma hijau dan jika belum mencapai 100% maka Bar akan berwarna merah.
+### Kemajuan
+Kolom **Kemajuan** menampilkan jumlah persentase pengerjaan dari masing-masing Kriteria, dimana jika persentase sudah 100% maka Kolom Kemajuan akan berwarma hijau dan jika belum mencapai 100% maka Kolom Kemajuan akan berwarna merah.
 
 ### Elemen
 Kolom **Elemen** menampilkan jumlah Elemen yang telah dikerjakan dari jumlah Elemen pada masing-masing kriteria.
+
 ### Skor
+Kolom **Skor** menampilkan jumlah nilai dari masing-masing kriteria.
 
 ### Tombol Panah
+Tombol Panah akan menghantarkan anda ke informasi Website yang lebih detail.
