@@ -17,16 +17,23 @@ mengubah skor mentah menjadi skor terjabar berdasarkan kriteria dan norma terten
 ## Bobot Total
 
 ## Peringkat
-Berdasarkan dihitung dari nilai Skor Total dikali dengan nilai Bobot Total yang hasilnya adalah nilai maksimal Akreditasi
+**Peringkat** Berdasarkan dihitung dari nilai Skor Total dikali dengan nilai Bobot Total yang hasilnya adalah nilai maksimal Akreditasi, dan Penetapan peringkat terakreditasi ditentukan oleh Nilai Akreditasi,
+
+| No | Nilai Akreditasi | Peringkat |
+| ----------- | ----------- | ----------- |
+| 1 | NA ≥ 361 | Unggul |
+| 2 | 301 ≤ NA < 361 | Baik Sekali |
+| 3 | 200 ≤ NA < 301| Baik |
+| 4 | NA < 200| Tidak memenuhi syarat peringkat Akreditasi |
 
 ## Syarat Unggul
 Pemenuhan syarat peringkat unggul program studi Sarjana dan Sarjana Terapan
 | No | Nomor Butir | Elemen | Indikator | Skor |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | Smk | Visi, Misi, Tujuan, dan Strategi |
-| 2 | Al-Huda | Penjaminan Mutu Tata Pamong, Tata Kelola dan Kerja sama |
-| 3 | Ciawi| Mahasiswa |
-| 4 | Aula | Sumber Daya Manusia |
+| 1 | | Visi, Misi, Tujuan, dan Strategi |
+| 2 | | Penjaminan Mutu Tata Pamong, Tata Kelola dan Kerja sama |
+| 3 | | Mahasiswa |
+| 4 | | Sumber Daya Manusia |
 
 ## Informasi Kriteria
 Informasi kriteria mencakup total skor per kriteria dari status yang sudah/belum selesai. 
@@ -47,4 +54,4 @@ Kolom **Elemen** menampilkan jumlah Elemen yang telah dikerjakan dari jumlah Ele
 Kolom **Skor** menampilkan jumlah nilai dari masing-masing kriteria.
 
 ### Tombol Panah
-**Tombol Panah** merupakan Tombol yang akan menghantarkan Anda kehalaman lain untuk lebih Detail melihat tentang informasi Website. 
+**Tombol Panah** merupakan Tombol Panah yang akan menghantarkan Anda kehalaman lain supaya Anda bisa lebih Detail melihat informasi tentang Website. 
