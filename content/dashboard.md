@@ -17,7 +17,7 @@ mengubah skor mentah menjadi skor terjabar berdasarkan kriteria dan norma terten
 ## Bobot Total
 
 ## Peringkat
-**Peringkat** Berdasarkan dihitung dari nilai Skor Total dikali dengan nilai Bobot Total yang hasilnya adalah nilai maksimal Akreditasi, dan Penetapan peringkat terakreditasi ditentukan oleh Nilai Akreditasi,
+Penetapan peringkat terakreditasi ditentukan oleh Nilai Akreditasi namun untuk Peringkat Unggul perlu pemenuhan syarat khusus
 
 | No | Nilai Akreditasi | Peringkat |
 | ----------- | ----------- | ----------- |
@@ -28,12 +28,12 @@ mengubah skor mentah menjadi skor terjabar berdasarkan kriteria dan norma terten
 
 ## Syarat Unggul
 Pemenuhan syarat peringkat unggul program studi Sarjana dan Sarjana Terapan
-| No | Nomor Butir | Elemen | Indikator | Skor |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | | Visi, Misi, Tujuan, dan Strategi |
-| 2 | | Penjaminan Mutu Tata Pamong, Tata Kelola dan Kerja sama |
-| 3 | | Mahasiswa |
-| 4 | | Sumber Daya Manusia |
+| No | Nomor Butir | Elemen | Indikator | Skor Unggul| Skor Baik Sekali |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1 | |  |
+| 2 | |  |
+| 3 | |  |
+| 4 | |  |
 
 ## Informasi Kriteria
 Informasi kriteria mencakup total skor per kriteria dari status yang sudah/belum selesai. 
@@ -53,5 +53,5 @@ Kolom **Elemen** menampilkan jumlah Elemen yang telah dikerjakan dari jumlah Ele
 ### Skor
 Kolom **Skor** menampilkan jumlah nilai dari masing-masing kriteria.
 
-### Tombol Panah
-**Tombol Panah** merupakan Tombol Panah yang akan menghantarkan Anda kehalaman lain supaya Anda bisa lebih Detail melihat informasi tentang Website. 
+### Tombol Detail
+**Tombol Detail** merupakan Tombol yang akan mengarahkan Anda ke masing-masing indikator dari tiap-tiap elemen.
