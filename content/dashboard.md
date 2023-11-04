@@ -6,14 +6,7 @@ description: Memuat statistik data
 Modul Dashboard dalam aplikasi website fisika
 
 ## Skor Total
-Skor total merupakan jumlah skor yang diperoleh dari seluruh elemen setelah diolah dengan 
-rumus tebakan (guessing formula). Setelah dihitung skor mentah setiap peserta didik, langkah 
-selanjutnya adalah mengolah skor mentah tersebut menjadi nilai-nilai jadi. Pengolahan skor 
-dimaksudkan untuk menetapkan batas lulus (passing grade) dan untuk mengubah skor mentah 
-menjadi skor terjabat (drived score) atau skor standar. Untuk menentukan batas lulus, terlebih 
-dahulu harus dihitung rata-rata (mean) dan simpangan baku (standard deviation), kemudian 
-mengubah skor mentah menjadi skor terjabar berdasarkan kriteria dan norma tertentu.
-
+Skor total merupakan jumlah skor yang diperoleh dari seluruh jumlah indikator dikalikan dengan nilai yang diperoleh dari masing-masing indikator itu sendiri. 
 ## Bobot Total
 
 ## Peringkat
@@ -27,10 +20,11 @@ Penetapan peringkat terakreditasi ditentukan oleh Nilai Akreditasi namun untuk P
 | 4 | NA < 200| Tidak memenuhi syarat peringkat Akreditasi |
 
 ## Syarat Unggul
-Pemenuhan syarat peringkat unggul program studi Sarjana dan Sarjana Terapan
-| No | Nomor Butir | Elemen | Indikator | Skor Unggul| Skor Baik Sekali |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | |  |
+Pemenuhan syarat Unggul/Baik Sekali program studi Sarjana dan Sarjana Terapan
+| No | Nomor Butir | Elemen | Indikator | Skor |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- | Unggul Baik Sekali|
+| 1 | |  |  
 | 2 | |  |
 | 3 | |  |
 | 4 | |  |
