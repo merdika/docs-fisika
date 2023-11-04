@@ -17,7 +17,7 @@ mengubah skor mentah menjadi skor terjabar berdasarkan kriteria dan norma terten
 ## Bobot Total
 
 ## Peringkat
-Berdasarkan dihitung dari Skor Total di kali dengan Bobot Total yang hasilnya adalah nilai maksimal Akreditasi
+Berdasarkan dihitung dari nilai Skor Total dikali dengan nilai Bobot Total yang hasilnya adalah nilai maksimal Akreditasi
 
 ## Syarat Unggul
 Pemenuhan syarat peringkat unggul program studi Sarjana dan Sarjana Terapan
