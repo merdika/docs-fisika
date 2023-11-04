@@ -17,10 +17,16 @@ mengubah skor mentah menjadi skor terjabar berdasarkan kriteria dan norma terten
 ## Bobot Total
 
 ## Peringkat
+Berdasarkan dihitung dari Skor Total di kali dengan Bobot Total yang hasilnya adalah nilai maksimal Akreditasi
 
 ## Syarat Unggul
 Pemenuhan syarat peringkat unggul program studi Sarjana dan Sarjana Terapan
-|no|
+| No | Nomor Butir | Elemen | Indikator | Skor |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1 | Smk | Visi, Misi, Tujuan, dan Strategi |
+| 2 | Al-Huda | Penjaminan Mutu Tata Pamong, Tata Kelola dan Kerja sama |
+| 3 | Ciawi| Mahasiswa |
+| 4 | Aula | Sumber Daya Manusia |
 
 ## Informasi Kriteria
 Informasi kriteria mencakup total skor per kriteria dari status yang sudah/belum selesai. 
@@ -41,4 +47,4 @@ Kolom **Elemen** menampilkan jumlah Elemen yang telah dikerjakan dari jumlah Ele
 Kolom **Skor** menampilkan jumlah nilai dari masing-masing kriteria.
 
 ### Tombol Panah
-Tombol Panah akan menghantarkan anda ke informasi Website yang lebih detail.
+**Tombol Panah** merupakan Tombol yang akan menghantarkan Anda kehalaman lain untuk lebih Detail melihat informasi Website. 
