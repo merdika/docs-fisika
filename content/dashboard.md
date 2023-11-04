@@ -47,4 +47,4 @@ Kolom **Elemen** menampilkan jumlah Elemen yang telah dikerjakan dari jumlah Ele
 Kolom **Skor** menampilkan jumlah nilai dari masing-masing kriteria.
 
 ### Tombol Panah
-**Tombol Panah** merupakan Tombol yang akan menghantarkan Anda kehalaman lain untuk lebih Detail melihat informasi Website. 
+**Tombol Panah** merupakan Tombol yang akan menghantarkan Anda kehalaman lain untuk lebih Detail melihat tentang informasi Website. 
