@@ -10,7 +10,7 @@ Skor total merupakan jumlah skor yang diperoleh dari seluruh jumlah indikator di
 ## Bobot Total
 
 ## Peringkat
-Penetapan peringkat terakreditasi ditentukan oleh Nilai Akreditasi namun untuk Peringkat Unggul perlu pemenuhan syarat khusus
+Penetapan peringkat terakreditasi ditentukan oleh Nilai Akreditasi namun untuk Peringkat Unggul perlu pemenuhan syarat khusus.
 
 | No | Nilai Akreditasi | Peringkat |
 | ----------- | ----------- | ----------- |
@@ -20,7 +20,7 @@ Penetapan peringkat terakreditasi ditentukan oleh Nilai Akreditasi namun untuk P
 | 4 | NA < 200| Tidak memenuhi syarat peringkat Akreditasi |
 
 ## Syarat Unggul
-Pemenuhan syarat Unggul/Baik Sekali program studi Sarjana dan Sarjana Terapan
+Pemenuhan syarat Unggul/Baik Sekali program studi Sarjana dan Sarjana Terapan.
 | No | Nomor Butir | Elemen | Indikator | Skor Unggul | skor Baik Sekali|
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | |  |  
@@ -47,4 +47,4 @@ Kolom **Elemen** menampilkan jumlah Elemen yang telah dikerjakan dari jumlah Ele
 Kolom **Skor** menampilkan jumlah nilai dari masing-masing kriteria.
 
 ### Tombol Detail
-**Tombol Detail** merupakan Tombol yang akan mengarahkan Anda ke masing-masing indikator dari tiap-tiap elemen, dan Anda akan melihat informasi indikator/elemen lebih lanjut setelah mengklik Tombol Detail.
+**Tombol Detail** merupakan Tombol yang akan mengarahkan Anda ke masing-masing indikator dari tiap-tiap elemen yang akan memberikan informasi lebih lanjut setelah Anda mengklik Tombol Detail.
