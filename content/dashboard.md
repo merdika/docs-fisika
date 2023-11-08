@@ -8,7 +8,27 @@ Modul Dashboard dalam aplikasi website fisika
 ## Skor Total
 Skor total merupakan jumlah skor yang diperoleh dari seluruh jumlah indikator dikalikan dengan nilai yang diperoleh dari masing-masing indikator itu sendiri. 
 ## Bobot Total
-Bobot Total merupakan Berat dari persoalan Website yang mana dari sembilan (9) Kriteria tersebut memiliki pengaruh yang sama.
+| BAB/KRITERIA | BOBOT BAB | BOBOT KRITERIA | D3 | S | S Tr | M | M Tr | D | D Tr |
+| ----------- | ----------- | ----------- |  ----------- | ----------- | ----------- | ----------- |  ----------- | ----------- | ----------- |
+| **A. KRITERIA** | 
+| 1. Visi, Misi, Tujuan, dan Strategi | 94,0 | | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 |
+| 2. Tata Pamong, Tata Kelola dan Kerjasama | 94,0 | | 8,0 | 8,0 | 8,0 | 8,0 | 8,0 | 8,0 | 8,0 |
+| 3. Mahasiswa | 94,0 | | 2,0 | 2,0 | 2,0 | 2,0 | 2,0 | 2,0 | 2,0 |
+| 4. Sumber Daya Manusia | 94,0 | | 9,0 | 9,0 | 9,0 | 9,0 | 9,0 | 9,0 | 9,0 |
+| 5. Keuangan, Sarana dan Prasarana | 94,0 | | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 
+| 6. Pendidikan | 94,0 | | 22,0 | 22,0 | 22,0 | 20,0 | 20,0 | 18,0 | 18,0 |
+| 7. Penelitian | 94,0 | | 4,0 | 4,0 | 4,0 | 6,0 | 6,0 | 8,0 | 8,0 |
+| 8. Pengabdian Kepada Masyarakat | 94,0 | | 2,0 | 2,0 | 2,0 | 2,0 | 2,0 | 2,0 | 2,0 |
+| 9. Luaran dan Capaian Tridarma | 94,0 | | 40,0 | 40,0 | 40,0 | 40,0 | 40,0 | 40,0 | 40,0 |
+| **B. ANALISIS DAN PENETAPAN PROGRAM PENGEMBANGAN** |
+| 1. Analisis dan Capaian Kinerja | 6,0 | | 1,5 |1,5 | 1,5 | 1,5 | 1,5 | 1,5 | 1,5 |
+| 2. Analisis SWOT atau Analisis Lain yang relevan | 6,0 | | 1,5 | 1,5 | 1,5 | 1,5 | 1,5 | 1,5 | 1,5 |
+| 3. Program Pengembangan dan Keberlanjutan | 6,0 | | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 |
+| **Total Bobot** | **100** | | **100** | **100** | **100** | **100** | **100** | **100** | **100** |
+
+Keterangan:
+
+D3 = Program Diploma Tiga; S = Program Sarjana; S Tr= Program Sarjana Terapan; M = Program Magister; M Tr= Program Magister Terapan; D = rogram Doktor; D Tr= Program Doktor Terapan.
 
 ## Peringkat
 Penetapan peringkat terakreditasi ditentukan oleh Nilai Akreditasi namun untuk Peringkat Unggul perlu pemenuhan syarat khusus.
@@ -24,18 +44,18 @@ Penetapan peringkat terakreditasi ditentukan oleh Nilai Akreditasi namun untuk P
 Pemenuhan syarat Unggul program studi Sarjana dan Sarjana Terapan.
 | No | Nomor Butir | Elemen | Indikator | Skor Unggul |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 5 | A.2.7 Penjaminan Mutu Tata Pamong, Tata Kelola dan Kerja sama | Keterlaksanaan Sistem Penjaminan Mutu Internal (akademik dan nonakademik) | &amp;lt;, 3,50 |
-| 2 | 10 | Sumber Daya Manusia | Kualifikasi akademik DTPS | &amp;lt;, 3,50 |
-| 3 | 28 | A.5.4.B.2)  Sarana Peralatan Utama Labolatorium | Ketersedian, aksebilitas dan mutu sarana laboratorium untuk menjamin pencapaian capaian pembelajaran dan meningkatkan suasana akademik | &amp;lt;, 3,50 | 
-| 4 |  61 |  A.9 Luaran dan Capaian Tridarma | Waktu Tunggu | &amp;lt;, 3,00 |
+| 1 | 5 | A.2.7 Penjaminan Mutu Tata Pamong, Tata Kelola dan Kerja sama | Keterlaksanaan Sistem Penjaminan Mutu Internal (akademik dan nonakademik) | &amp;lt; 3,50 |
+| 2 | 10 | Sumber Daya Manusia | Kualifikasi akademik DTPS | &amp;lt; 3,50 |
+| 3 | 28 | A.5.4.B.2)  Sarana Peralatan Utama Labolatorium | Ketersedian, aksebilitas dan mutu sarana laboratorium untuk menjamin pencapaian capaian pembelajaran dan meningkatkan suasana akademik | &amp;lt; 3,50 | 
+| 4 |  61 |  A.9 Luaran dan Capaian Tridarma | Waktu Tunggu | &amp;lt; 3,00 |
 
 Pemenuhan syarat Baik Sekali program studi Sarjana dan Sarjana Terapan
 | No | Nomor Butir | Elemen | Indikator | Skor Baik Sekali |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 5 | A.2.7 Penjaminan Mutu Tata Pamong, Tata Kelola dan Kerja sama| Keterlaksanaan Sistem Penjaminan Mutu Internal (akademik dan nonakademik) | &amp;lt;, 3,00 |
+| 1 | 5 | A.2.7 Penjaminan Mutu Tata Pamong, Tata Kelola dan Kerja sama| Keterlaksanaan Sistem Penjaminan Mutu Internal (akademik dan nonakademik) | &amp;lt; 3,00 |
 | 2 | 10 | A.4 Sumber Daya Manusia | Kualifikasi akademik DTPS. | Minimum 1 doktor |
-| 3 | 28 | A.5.4.b.2) Sarana Peralatan Utama Laboratorium | Ketersediaan, aksesibilitas dan mutu sarana laboratorium untuk menjamin pencapaian capaian pembelajaran dan meningkatkan suasana akademik |  &amp;lt;, 2,50 |
-| 4 | 61 | A.9 Luaran dan Capaian | Waktu tunggu | &amp;lt;, 2,00  |
+| 3 | 28 | A.5.4.b.2) Sarana Peralatan Utama Laboratorium | Ketersediaan, aksesibilitas dan mutu sarana laboratorium untuk menjamin pencapaian capaian pembelajaran dan meningkatkan suasana akademik |  &amp;lt; 2,50 |
+| 4 | 61 | A.9 Luaran dan Capaian | Waktu tunggu | &amp;lt; 2,00  |
 
 ## Informasi Kriteria
 Informasi kriteria mencakup total skor per kriteria dari status yang sudah/belum selesai. 
