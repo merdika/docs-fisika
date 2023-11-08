@@ -8,6 +8,7 @@ Modul Dashboard dalam aplikasi website fisika
 ## Skor Total
 Skor total merupakan jumlah skor yang diperoleh dari seluruh jumlah indikator dikalikan dengan nilai yang diperoleh dari masing-masing indikator itu sendiri. 
 ## Bobot Total
+Bobot Total merupakan Berat dari persoalan Website yang mana dari sembilan (9) Kriteria tersebut memiliki pengaruh yang sama.
 
 ## Peringkat
 Penetapan peringkat terakreditasi ditentukan oleh Nilai Akreditasi namun untuk Peringkat Unggul perlu pemenuhan syarat khusus.
