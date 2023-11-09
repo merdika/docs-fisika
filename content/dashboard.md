@@ -8,9 +8,10 @@ Modul Dashboard dalam aplikasi website fisika
 ## Skor Total
 Skor total merupakan jumlah skor yang diperoleh dari seluruh jumlah indikator dikalikan dengan nilai yang diperoleh dari masing-masing indikator itu sendiri. 
 ## Bobot Total
+
 | BAB/KRITERIA | BOBOT BAB | BOBOT KRITERIA | D3 | S | S Tr | M | M Tr | D | D Tr |
 | ----------- | ----------- | ----------- |  ----------- | ----------- | ----------- | ----------- |  ----------- | ----------- | ----------- |
-| **A. KRITERIA** | 
+| **A. KRITERIA** | | | | | | |
 | 1. Visi, Misi, Tujuan, dan Strategi | 94,0 | | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 |
 | 2. Tata Pamong, Tata Kelola dan Kerjasama | 94,0 | | 8,0 | 8,0 | 8,0 | 8,0 | 8,0 | 8,0 | 8,0 |
 | 3. Mahasiswa | 94,0 | | 2,0 | 2,0 | 2,0 | 2,0 | 2,0 | 2,0 | 2,0 |
