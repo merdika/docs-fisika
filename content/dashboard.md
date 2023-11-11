@@ -37,10 +37,10 @@ Penetapan peringkat terakreditasi ditentukan oleh Nilai Akreditasi namun untuk P
 
 | No | Nilai Akreditasi | Peringkat |
 | ----------- | ----------- | ----------- |
-| 1 | NA ≥ 361 | Unggul |
-| 2 | 301 ≤ NA < 361 | Baik Sekali |
-| 3 | 200 ≤ NA < 301| Baik |
-| 4 | NA < 200| Tidak memenuhi syarat peringkat Akreditasi |
+| 1 | NA  &amp;lt 361 | Unggul |
+| 2 | 301  &amp;lt NA  &amp;lt 361 | Baik Sekali |
+| 3 | 200  &amp;lt NA  &amp;lt 301| Baik |
+| 4 | NA  &amp;lt 200| Tidak memenuhi syarat peringkat Akreditasi |
 
 ## Syarat Unggul
 Pemenuhan syarat Unggul program studi Sarjana dan Sarjana Terapan.
