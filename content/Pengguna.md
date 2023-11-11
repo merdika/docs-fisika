@@ -1,4 +1,4 @@
 ---
 title: Halaman Pengguna
-description:
+description: Halaman Informasi Pengguna
 ---
