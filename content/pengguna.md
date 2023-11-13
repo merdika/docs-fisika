@@ -4,7 +4,7 @@ description: Informasi halaman Pengguna
 ---
 
 ## Informasi Pengguna
- akan menampilkan seluruh Nama-Nama Pengguna yang terdaftar di aplikasi ini. 
+Akan menampilkan seluruh Nama-Nama Pengguna yang terdaftar di aplikasi ini yang akan ditampilkan oleh Admin. 
 
 ## Tambah (+)
 
@@ -18,3 +18,9 @@ Di wajibkan kepada tiap-tiap pengguna untuk menggunakan Nama Lengkapnya masing-m
 Peranan merupakan sebuah proses dinamis kedudukan (status) seseorang, yang dimana Anda harus menulis peranan Anda sesuai dengan kedudukan Anda masing-masing. 
 
 ## Action
+Setelah Anda mengklik Tombol Action, Tombol Action tersebut akan memberikan dua (2) pilihan yaitu:
+
+### Edit Data
+Anda dapat mengedit Data/*acount* 
+
+###
