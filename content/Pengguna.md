@@ -9,12 +9,12 @@ description: Informasi halaman Pengguna
 ## Tambah (+)
 
 ## Nama Pengguna
-Nama Pengguna adalah alamat Web untuk profil atau Halaman Anda yang akan dibuatkan dan diberikan oleh Admin Website kepada masing-masing pengguna, serta pengguna tidak dapat merubahnya setelah masuk ke Website. 
+Nama Pengguna adalah alamat Web untuk profil atau Halaman Anda yang akan dibuat dan diberikan oleh Admin kepada tiap-tiap pengguna, serta pengguna tidak dapat merubahnya setelah masuk ke Website. 
 
 ## Nama Lengkap
-Di wajibkan bagi tiap-tiap pengguna supaya menggunakan Nama Lengkapnya masing-masing, .
+Di wajibkan kepada tiap-tiap pengguna untuk menggunakan Nama Lengkapnya masing-masing.
 
 ## Peranan
-Harus sesuai dengan kedudukan Pengguna masing-masing, agar dapat diketahui bahwa Anda berperan sebagai apa/menunjukan peranan Anda di dalam di aplikasi ini.
+Peranan merupakan proses dinamis kedudukan (status), Anda harus mengisi Peranan yang sesuai dengan kedudukan Anda masing-masing. 
 
 ## Action
