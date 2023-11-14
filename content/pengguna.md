@@ -7,11 +7,11 @@ description: Informasi halaman Pengguna
 Akan menampilkan seluruh Nama-Nama Pengguna yang terdaftar di aplikasi ini yang akan ditampilkan oleh Admin. 
 
 ## Tambah (+)
-Kolom Tambah (+) merupakan Kolom untuk menambah *Acount*/pengguna yang dimana setelah diklik akan memberikan empat (4) Kolom, serta Mahasiswa dapat menambahnya secara mandiri.
-1. Kolom Nama Pengguna, yang dimana Nama Pengguna tersebut akan dibuat dan diberikan oleh Admin serta Pengguna tidak dapat merubahnya.
-1. Kolom Kata Kunci, yang dimana Kata kunci tersebut pada mulanya akan diberikan oleh Admin dan dapat dirubah oleh Pengguna setelah masuk ke website.
-1. Kolom Nama Lengkap, yang dimana Nama Lengkap tersebut harus sesuai dengan Nama Lengkapnya masing-masing.
-1. Kolom Peranan, yang dimana Peranan tersebut harus sesuai dengan kedudukan Anda masing-masing.
+Kolom Tambah (+) merupakan Kolom untuk menambah *Acount*/pengguna yang dimana setelah diklik akan memberikan empat (4) Kolom yang harus di isi oleh Pengguna, serta Pengguna dapat menambahnya secara mandiri.
+1. Kolom Nama Pengguna, yang dimana Kolom Nama Pengguna tersebut harus di isi dengan Nama Pengguna yang telah dibuat dan diberikan oleh Admin kepada pengguna, serta Pengguna tidak dapat merubahnya.
+1. Kolom Kata Kunci, yang dimana Kolom Kata kunci tersebut harus di isi dengan Kata Kunci yang telah dibuat dan diberikan oleh Admin kepada tiap-tiap Pengguna, dan Pengguna dapat merubah Kata Kunci tersebut setelah masuk ke website.
+1. Kolom Nama Lengkap, yang dimana Kolom Nama Lengkap tersebut harus di isi sesuai dengan Nama Lengkapnya masing-masing.
+1. Kolom Peranan, yang dimana Kolom Peranan tersebut harus di isi sesuai dengan kedudukan Anda masing-masing.
 
 ## Nama Pengguna
 Nama Pengguna adalah alamat Web untuk profil atau Halaman Anda yang akan dibuat dan diberikan oleh Admin kepada tiap-tiap pengguna serta pengguna tidak dapat merubahnya setelah masuk ke Website. 
