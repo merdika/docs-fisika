@@ -55,7 +55,7 @@ Pemenuhan syarat Baik Sekali program studi Sarjana dan Sarjana Terapan
 | No | Nomor Butir | Elemen | Indikator | Skor Baik Sekali |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 5 | A.2.7 Penjaminan Mutu Tata Pamong, Tata Kelola dan Kerja sama| Keterlaksanaan Sistem Penjaminan Mutu Internal (akademik dan nonakademik) | &amp;lt 3,00 |
-| 2 | 10 | A.4 Sumber Daya Manusia | Kualifikasi akademik DTPS. | &amp;lt Minimum 1 doktor |
+| 2 | 10 | A.4 Sumber Daya Manusia | Kualifikasi akademik DTPS. | Minimum 1 doktor |
 | 3 | 28 | A.5.4.b.2) Sarana Peralatan Utama Laboratorium | Ketersediaan, aksesibilitas dan mutu sarana laboratorium untuk menjamin pencapaian capaian pembelajaran dan meningkatkan suasana akademik |  &amp;lt 2,50 |
 | 4 | 61 | A.9 Luaran dan Capaian | Waktu tunggu | &amp;lt 2,00  |
 
