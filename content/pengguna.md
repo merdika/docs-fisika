@@ -26,7 +26,7 @@ Peranan merupakan sebuah proses dinamis kedudukan (status) seseorang, di mana Ad
 Setelah Anda mengklik Tombol Action (...) Tombol Action tersebut akan memberikan dua (2) pilihan yaitu:
 
 ### Edit Data
-Edit Data/*Acount* hanya dapat diubah/diedit oleh Admin saja.
+Edit Data/*Account* hanya dapat diubah/diedit oleh Admin saja.
 
 ### Hapus Data
-Jika Anda yakin/setuju untuk menghapus *Acount*/Data silakan klik Tombol "oke", dan jika Anda ingin membatalkannya maka Anda harus mengklik Tombol "batal" hal ini hanya dapat dilakukan oleh Admin saja.
+Jika Anda yakin/setuju untuk menghapus Data/*Account* silakan klik Tombol "oke", dan jika Anda ingin membatalkannya maka Anda harus mengklik Tombol "batal", hal ini hanya dapat dilakukan oleh Admin saja.
