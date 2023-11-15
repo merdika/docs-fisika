@@ -20,7 +20,7 @@ Nama Pengguna adalah alamat Web untuk profil atau Halaman Anda yang akan dibuat 
 Di wajibkan kepada tiap-tiap pengguna untuk menggunakan Nama Lengkapnya masing-masing.
 
 ## Peranan
-Peranan merupakan sebuah proses dinamis kedudukan (status) seseorang yang harus ditulis sesuai dengan kedudukannya masing-masing. 
+Peranan merupakan sebuah proses dinamis kedudukan (status) seseorang, di mana Admin harus menulis Peranan seseorang itu harus sesuai dengan kedudukannya masing-masing. 
 
 ## Action
 Setelah Anda mengklik Tombol Action (...) Tombol Action tersebut akan memberikan dua (2) pilihan yaitu:
@@ -29,4 +29,4 @@ Setelah Anda mengklik Tombol Action (...) Tombol Action tersebut akan memberikan
 Edit Data/*Acount* hanya dapat diubah/diedit oleh Admin saja.
 
 ### Hapus Data
-Jika Anda yakin/setuju untuk menghapus *Acount*/Data silakan klik Tombol "oke", dan jika Anda ingin membatalkannya maka Anda harus mengklik Tombol "batal".
+Jika Anda yakin/setuju untuk menghapus *Acount*/Data silakan klik Tombol "oke", dan jika Anda ingin membatalkannya maka Anda harus mengklik Tombol "batal" hal ini hanya dapat dilakukan oleh Admin saja.
