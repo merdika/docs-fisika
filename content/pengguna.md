@@ -20,7 +20,7 @@ Nama Pengguna adalah alamat Web untuk profil atau Halaman Anda yang akan dibuat 
 Di wajibkan kepada tiap-tiap pengguna untuk menggunakan Nama Lengkapnya masing-masing.
 
 ## Peranan
-Peranan merupakan sebuah proses dinamis kedudukan (status) seseorang, dimana Anda mengisi bagian peranan tersebut harus sesuai dengan kedudukannya masing-masing. 
+Peranan merupakan sebuah proses dinamis kedudukan (status) seseorang yang harus ditulis sesuai dengan kedudukannya masing-masing. 
 
 ## Action
 Setelah Anda mengklik Tombol Action (...) Tombol Action tersebut akan memberikan dua (2) pilihan yaitu:
