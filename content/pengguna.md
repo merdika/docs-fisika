@@ -7,7 +7,7 @@ description: Informasi halaman Pengguna
 Akan menampilkan seluruh Nama-Nama Pengguna yang terdaftar di aplikasi ini yang akan ditampilkan oleh Admin. 
 
 ## Tambah (+)
-Kolom Tambah (+) merupakan Kolom untuk menambah *Acount*/Pengguna dimana setelah diklik akan memberikan empat (4) Kolom yang harus di isi oleh Admin.
+Kolom Tambah (+) merupakan Kolom untuk menambah Pengguna/*Acount* dimana setelah diklik akan memberikan empat (4) Kolom yang harus di isi oleh Admin.
 1. Kolom Nama Pengguna, dimana Kolom Nama Pengguna tersebut harus di isi dengan Nama Pengguna yang telah dibuat dan diberikan oleh Admin kepada pengguna, serta Pengguna tidak dapat merubahnya setelah masuk ke Website.
 1. Kolom Kata Kunci, yang pada mulanya Kolom Kata kunci tersebut harus di isi dengan Kata Kunci yang telah dibuat dan diberikan oleh Admin kepada tiap-tiap Pengguna, dan Pengguna dapat merubah Kata Kunci tersebut setelah masuk ke website.
 1. Kolom Nama Lengkap, dimana Kolom Nama Lengkap tersebut harus di isi sesuai dengan Nama Lengkapnya masing-masing.
@@ -20,10 +20,10 @@ Nama Pengguna adalah alamat Web untuk profil atau Halaman Anda yang akan dibuat 
 Di wajibkan kepada tiap-tiap pengguna untuk menggunakan Nama Lengkapnya masing-masing.
 
 ## Peranan
-Peranan merupakan sebuah proses dinamis kedudukan (status) seseorang, di mana Admin harus menulis Peranan seseorang tersebut harus sesuai dengan kedudukannya masing-masing. 
+Peranan merupakan sebuah proses dinamis kedudukan (status) seseorang, di mana Admin menulis Peranan seseorang tersebut harus sesuai dengan kedudukannya masing-masing. 
 
 ## Action
-Setelah Anda mengklik Tombol Action (...) Tombol Action tersebut akan memberikan dua (2) pilihan yaitu:
+Setelah Anda mengklik Tombol Action (...) yang berada di Informasi Halaman Pengguna, Tombol Action tersebut akan memberikan dua (2) pilihan yaitu:
 
 ### Edit Data
 Edit Data/*Account* hanya dapat diubah/diedit oleh Admin saja.
