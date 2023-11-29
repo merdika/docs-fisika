@@ -10,5 +10,3 @@ Anda mengakui bahwa Anda telah membaca, memahami, dan setuju untuk terikat denga
 ## Privasi
 
 Silakan pelajari [Kebijakan Privasi](/docs/privacy) dan Kebijakan Kuki, yang juga berlaku pada kunjungan Anda ke Situs ini.
-
-

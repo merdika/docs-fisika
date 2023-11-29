@@ -6,11 +6,12 @@ description: Gerbang awal untuk masuk ke aplikasi.
 > Halaman ini merupakan gerbang awal untuk masuk ke aplikasi yang akan memberikan petunjuk atau informasi sebelum anda pindah ke halaman lain.
 
 ## Nama Pengguna
+
 Nama pengguna akan dibuat dan diberikan oleh admin kepada masing-masing pengguna yang akan digunakan untuk masuk ke website serta pengguna tidak dapat merubahnya.
 
 ### Persyaratan Nama Pengguna
 
-**Pastikan** anda memiliki Nama Pengguna yang terdiri dari minimal 5 (lima) huruf dan maksimal 50 (lima puluh) huruf, Nama Pengguna dapat menggunakan huruf (a-z), angka (0-9), dan titik (.). dan Nama Pengguna tidak boleh menggunakan huruf kapital, tanda *ampersand* (&), sama dengan (=), garis bawah (_), apostrof ('), tanda hubung (-), tanda tambah (+), koma (,), tanda kurung (&amp;lt;, >), atau lebih dari satu titik (.) secara berturut-turut.
+**Pastikan** anda memiliki Nama Pengguna yang terdiri dari minimal 5 (lima) huruf dan maksimal 50 (lima puluh) huruf, Nama Pengguna dapat menggunakan huruf (a-z), angka (0-9), dan titik (.). dan Nama Pengguna tidak boleh menggunakan huruf kapital, tanda _ampersand_ (&), sama dengan (=), garis bawah (\_), apostrof ('), tanda hubung (-), tanda tambah (+), koma (,), tanda kurung (&amp;lt;, >), atau lebih dari satu titik (.) secara berturut-turut.
 
 ## Kata Kunci
 
