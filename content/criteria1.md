@@ -12,7 +12,11 @@ di dalam tab ini terdapat dua (2) Menu pilihan:
 1. Menu Indikator Skor 0, di mana Menu Indikator skor 0 tersebut akan langsung menampilkan informasi dari masing-masing Judul Artikelnya atau Pendukung dari tiap-tiap Judul Artikelnya.
 
 ## Accordion 
-Tombol Accordion merupakan Tombol yang berada pada bagian Sub Judul "Menu semua Elemen" yang akan memberikan informasi lebih lanjut/detail setelah Anda mengkliknya.
+Tombol Accordion merupakan Tombol yang berada pada bagian Sub Judul Menu Semua Elemen yang akan memberikan informasi lebih lanjut/detail setelah Anda mengkliknya.
 
 ## Action (...)
-Tombol Action merupakan tombol yang akan menghantarkan Anda ke halaman indikator setelah diklik dan akan memberikan informasi lebih lanjut dari masing-masing Kriterianya. tersebut berada di bagian Tabel Skor Indikator 0 di bagian kanan setelah diklik akan menghantarkan Anda ke halaman Indikator yang akan memberikan informasi lebih lanjut/detail dari masing-masing Kriterianya yang 
+Tombol Action merupakan tombol yang akan menghantarkan Anda ke halaman indikator dari masing-masing Kriteria, untuk masuk ke halaman Indikator Anda harus mengklik Menu Detail yang diberikan oleh tombol Action tersebut, setelah Anda mengklik menu Detail yang diberikan oleh Tombol Action tersebut, otomatis Anda akan langsung masuk ke halaman Indikator dan akan mengetahui informasi lebih lanjut dari masing-masing Kriterianya. 
+
+## CheckBox (O)
+Tombol CheckBox ini merupakan Tombol yang akan menampilkan jumlah Skor dari semua Elemen yang berada di Tab
+
