@@ -1,9 +1,9 @@
 ---
 title: Halaman Dasbor
-description: Memuat statistik data
+description: Memuat data statistik 
 ---
 
-Modul Dashboard dalam aplikasi website fisika
+Modul Dasbor dalam aplikasi website fisika
 
 ## Skor Total
 
