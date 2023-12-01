@@ -11,11 +11,12 @@ Nama pengguna akan dibuat dan diberikan oleh admin kepada masing-masing pengguna
 
 ### Persyaratan Nama Pengguna
 
-**Pastikan** anda memiliki Nama Pengguna yang terdiri dari minimal 5 (lima) huruf dan maksimal 50 (lima puluh) huruf dengan ketentuan penulisan Nama Pengguna menggunakan huruf (a-z), angka (0-9), dan titik (.) serta tidak boleh menggunakan huruf kapital, tanda _ampersand_ (&), sama dengan (=), garis bawah (\_), apostrof ('), tanda hubung (-), tanda tambah (+), koma (,), tanda kurung (&amp;lt;, >), atau lebih dari satu titik (.) secara berturut-turut.
+**Pastikan** anda memiliki Nama Pengguna yang terdiri dari minimal 5 (lima) huruf dan maksimal 50 (lima puluh) huruf dengan ketentuan penulisan Nama Pengguna menggunakan huruf (a-z), angka (0-9), dan titik (.) serta tidak boleh menggunakan huruf kapital, tanda _ampersand_ (&), sama dengan (=), garis bawah (\_), apostrof ('), tanda hubung (-), tanda tambah (+), koma (,), tanda kurung (&lt;, >), atau lebih dari satu titik (.) secara berturut-turut.
 
 ## Kata Kunci
 
-Kata Kunci pada awalnya diberikan oleh Admin dan dapat diubah secara mandiri setelah masuk ke Website, sebuah Kata Kunci tidak bisa memuat kata yang panjang, kami menyarankan kepada Anda, Kata Kunci tersebut harus singkat, padat, dan jelas, supaya mudah diingat.
+Kata Kunci pada awalnya diberikan oleh Admin dan dapat diubah secara mandiri oleh pengguna masing-masing setelah masuk ke Website.
+Kami menyarankan kepada Anda untuk membuat dan mengubah Kata Kunci menjadi tidak terlalu panjang, singkat, padat, jelas, serta mudah diingat, karena sampai saat ini belum ada fitur untuk reset Kata Kunci.
 
 ### Persyaratan Kata Kunci
 
