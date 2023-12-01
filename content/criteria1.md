@@ -19,7 +19,7 @@ Tombol Accordion merupakan Tombol yang akan memberikan informasi lebih lanjut/de
 ## Action (...)
 Tombol Action merupakan tombol yang akan menghantarkan Anda ke halaman indikator dari masing-masing Kriteria, untuk masuk ke halaman Indikator Anda harus mengklik Menu Detail yang diberikan oleh tombol Action tersebut, setelah Anda mengklik menu Detail yang diberikan oleh Tombol Action, otomatis Anda akan langsung masuk ke halaman Indikator dan akan mengetahui informasi lebih lanjut dari masing-masing Kriteria. 
 
-## CheckBox (O)
+## CheckBox 
 Tombol CheckBox ini merupakan Tombol yang akan menampilkan jumlah Skor dari semua Elemen yang berada di Tab.
 
 ## Tambah (+) 
