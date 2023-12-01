@@ -22,9 +22,12 @@ Tombol CheckBox ini merupakan Tombol yang akan menampilkan jumlah Skor dari semu
 
 ## Tambah (+) 
 Tombol Tambah ini merupakan Tombol yang akan menambahkan Data dan hanya dapat digunakan/ditambahkan oleh orang berhak untuk menambahkannya,
-orang yang berhak untuk menambahkannya yaitu:
+orang yang berhak untuk menambahkannya yaitu ialah orang yang Peranannya di beri tanda *Checkmark*/Centang di bagian Peranan Khusus Admin.
 
-(orang yang Peranannya di beri tanda *"Checkmark"*/Centang)
+## Tombol Action Khusus Indikator
+Tombol Action Khusus Indikator ini setelah diklik akan memberikan dua (2) menu pilihan:
 
+1. Edit Data, dimana Edit Data ini hanya dapat dilakukan oleh orang yang Peranannya di beri tanda *Checkmark*/Centang.
+1. *Delete* Data, dimana *Delete* Data ini hanya dapat dilakukan oleh orang yang Peranannya diberi tanda*Checkmark*/centang, jika Anda yakin untuk menghapus Data tersebut maka Anda harus mengklik Tombol "oke", dan jika Anda ingin membatalkan untuk menghapus Data tersebut maka Anda harus mengklik Tombol *batal*.
 
 
