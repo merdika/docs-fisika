@@ -1,5 +1,5 @@
 ---
-title: Informasi Kriteria1
+title: Informasi Kriteria 1
 description: Halaman yang akan memberikan Informasi tentang Kriteria1
 ---
 
