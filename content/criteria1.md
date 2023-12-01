@@ -23,6 +23,7 @@ Tombol CheckBox ini merupakan Tombol yang akan menampilkan jumlah Skor dari semu
 ## Tambah (+) 
 Tombol Tambah ini merupakan Tombol yang akan menambahkan Data dan hanya dapat digunakan/ditambahkan oleh orang berhak untuk menambahkannya,
 orang yang berhak untuk menambahkannya yaitu:
+
 (orang yang Peranannya di beri tanda *"Checkmark"*/Centang)
 
 
