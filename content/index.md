@@ -5,7 +5,7 @@ description: Halaman dokumentasi website Fisika UIN Sunan Gunung Djati Bandung
 
 ## Tentang Website
 
-Website Fisika merupakan sebuah aplikasi berbentuk website yang berfungsi sebagai sarana penyimpanan informasi seputar akademik di Fisika UIN Sunan Gunung Djati Bandung.
+Website Fisika merupakan sebuah aplikasi berbasis Website yang berfungsi sebagai sarana penyimpanan informasi seputar akademik di Fisika UIN Sunan Gunung Djati Bandung.
 
 ## Tentang Dokumentasi
 
