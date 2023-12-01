@@ -11,7 +11,7 @@ Nama pengguna akan dibuat dan diberikan oleh admin kepada masing-masing pengguna
 
 ### Persyaratan Nama Pengguna
 
-**Pastikan** anda memiliki Nama Pengguna yang terdiri dari minimal 5 (lima) huruf dan maksimal 50 (lima puluh) huruf dengan ketentuan penulisan Nama Pengguna menggunakan huruf (a-z), angka (0-9), dan titik (.) serta tidak boleh menggunakan huruf kapital, tanda _ampersand_ (&), sama dengan (=), garis bawah (\_), apostrof ('), tanda hubung (-), tanda tambah (+), koma (,), tanda kurung (&lt;, >), atau lebih dari satu titik (.) secara berturut-turut.
+**Pastikan** anda memiliki Nama Pengguna yang terdiri dari minimal 5 (lima) huruf dan maksimal 50 (lima puluh) huruf dengan ketentuan penulisan Nama Pengguna menggunakan huruf (a-z), angka (0-9), dan titik (.) serta tidak boleh menggunakan huruf kapital, tanda _ampersand_ (&), sama dengan (=), garis bawah (\_), apostrof ('), tanda hubung (-), tanda tambah (+), koma (,), tanda kurung (&amp;lt;, >), atau lebih dari satu titik (.) secara berturut-turut.
 
 ## Kata Kunci
 
