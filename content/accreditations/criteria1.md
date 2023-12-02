@@ -4,12 +4,12 @@ description: Halaman yang akan memberikan Informasi tentang Kriteria 1
 ---
 
 ## Peranan Khusus Admin
-Maksud Peranan Khusus Admin disini adalah Tombol Peranan yang hanya ada di halaman Kriteria-Kriteria bagian Admin, untuk halaman Kriteria-Kriteria bagian Pengguna tidak ada Tombol Peranan, dan fungsi dari Peranan Khusus Admin ini adalah untuk menentukan siapa yang berhak untuk Menambahkan Data Dokumen Poin per Skor.
+Maksud Peranan Khusus Admin disini adalah Tombol Peranan yang hanya ada di halaman Kriteria-Kriteria bagian Admin, untuk halaman Kriteria-Kriteria bagian Pengguna tidak memiliki Tombol Peranan, dan fungsi dari Peranan Khusus Admin ini adalah untuk menentukan siapa yang berhak untuk Menambahkan Data Dokumen Poin per Skor.
 
 ## Tab Khusus Kriteria
-di dalam tab Khusus Kriteria ini terdapat dua (2) Menu yang dapat dipilih oleh Anda untuk melihat keterangan-keterangan dari masing-masing Elemen dan Poin:
-1. Menu Semua Elemen, di mana Menu Semua elemen tersebut diklik akan memeberikan Elemennya saja yang disertai dengan Tombol Accordion yang berada di bagian kanan jika Anda mengkliknya ia akan memberikan keterangan  lanjut/detail dari Sub Judul tersebut, atau menampilkan pendukung dari Sub Judul tersebut dari masing-masing Kriterianya.
-1. Menu Indikator Skor 0, di mana Menu Indikator skor 0 tersebut akan langsung menampilkan keterangan dari masing-masing Judul Artikelnya atau Pendukung dari tiap-tiap Judul Artikelnya.
+di dalam tab Khusus Kriteria ini terdapat dua (2) Menu yang dapat dipilih oleh Anda untuk melihat keterangan-keterangan dari masing-masing Elemen Kriteria dan keterangan poin-poin dari masing-masing Skor.
+1. Menu Semua Elemen, di mana Menu Semua elemen tersebut telah diklik maka akan memeberikan Elemennya saja yang disertai dengan Tombol Accordion (v) yang berada di bagian kanan jika Anda mengkliknya ia akan memberikan keterangan  dari tiap-tiap Elemen Kriteria.
+1. Menu Indikator Skor 0, di mana Menu Indikator skor 0 tersebut akan langsung menampilkan keterangan dari masing-masing Elemen Kriteria yang di sertai dengan Tombol Action (...) yang berada di bagian kanan, dan fungsi dari tombol Action (...) ini adalah untuk mengarahkan/masuk ke halaman Indikator.
 
 ## Tab Khusus Indikator
 
