@@ -16,7 +16,7 @@ di dalam tab Khusus Kriteria ini terdapat dua (2) Menu yang dapat dipilih oleh A
 ## Accordion (v)
 Tombol Accordion merupakan Tombol yang akan memberikan keterangan dari masing-masing Elemen Keriteria setelah Anda mengkliknya.
 
-## Tombol Action Khusus Kriteria(...)
+## Tombol Action (...) Khusus Kriteria  
 Tombol Action merupakan tombol yang akan menghantarkan Anda ke halaman indikator dari masing-masing Kriteria, untuk masuk ke halaman Indikator Anda harus mengklik Menu Detail yang diberikan oleh tombol Action tersebut, setelah Anda mengklik menu Detail yang diberikan oleh Tombol Action, otomatis Anda akan langsung masuk ke halaman Indikator dan akan mengetahui keterangan dari masing-masing Elemen Kriteria. 
 
 ## Tombol CheckBox (o)
@@ -26,7 +26,7 @@ Tombol CheckBox ini merupakan Tombol yang akan menampilkan jumlah Skor dari semu
 Tombol Tambah ini merupakan Tombol yang akan menambahkan Data Dokumen per Skor yang hanya dapat digunakan/ditambahkan oleh orang yang berhak untuk menambahkannya, orang yang berhak untuk menambahkannya ialah orang yang Peranannya di beri tanda *Checkmark*/Centang di bagian tombol Peranan Khusus Admin.
 
 ## Tombol Action Khusus Indikator
-Tombol Action Khusus Indikator ini setelah diklik akan memberikan dua (2) menu yang dapat dipilih oleh Anda:
+Tombol Action Khusus Indikator ini jika diklik akan memberikan dua (2) menu yang dapat dipilih oleh Anda:
 
 1. Edit Data, dimana Edit Data ini hanya dapat diubah/diedit oleh orang yang Peranannya di beri tanda *Checkmark*/Centang.
 1. *Delete* Data, dimana *Delete* Data/Hapus Data ini hanya dapat dilakukan oleh orang yang Peranannya diberi tanda*Checkmark*/centang, jika Anda yakin untuk menghapus Data tersebut maka Anda harus mengklik Tombol "oke", dan jika Anda ingin membatalkannya maka Anda harus mengklik Tombol *batal*.
