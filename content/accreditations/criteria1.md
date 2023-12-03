@@ -25,7 +25,7 @@ Tombol CheckBox ini merupakan Tombol yang akan menampilkan jumlah Skor dari semu
 ## Tombol Tambah (+) Khusus Indikator
 Tombol Tambah ini merupakan Tombol yang akan menambahkan Data Dokumen per Skor yang hanya dapat digunakan/ditambahkan oleh orang yang berhak untuk menambahkannya, orang yang berhak untuk menambahkannya ialah orang yang Peranannya di beri tanda *Checkmark*/Centang di bagian tombol Peranan Khusus Admin.
 
-## Tombol Action Khusus Indikator
+## Tombol Action (...) Khusus Indikator
 Tombol Action Khusus Indikator ini jika diklik akan memberikan dua (2) menu yang dapat dipilih oleh Anda:
 
 1. Edit Data, dimana Edit Data ini hanya dapat diubah/diedit oleh orang yang Peranannya di beri tanda *Checkmark*/Centang.
