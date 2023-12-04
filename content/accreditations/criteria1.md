@@ -14,9 +14,9 @@ di dalam tab Khusus Kriteria ini terdapat dua (2) Menu yang dapat dipilih oleh A
 ## Tab Khusus Indikator Kriteria 1
 Tab Khusus Indikator ini akan memberikan 6 menu yang dapat dipilih oleh Anda untuk melihat keterangan (Indikator) dari tiap-tiap poin per Skor.
 
-1. Skor x, di mana Skor x tersebut akan memberi keterangan (Indikator) dari poin Tab per Skor, bahwa Skor X dapat ditambahkan langsung oleh Pengguna yang disertai dengan tombol
-1. Skor 0, di mana Skor 0 tersebut akan memberikan keterangan (Indikator) dari Poin Tab per Skor, bahwa misi, tujuan, dan strategi yang tidak terkait dengan strategi perguruan tinggi dan pengembangan program studi.
-1. Skor 1, di mana Skor 1 tersebut memiliki dua (2) Poin: Poin ke satu (1) memberikan keterangan (Indikator) bahwa visi yang mencerminkan visi perguruan tinggi namun tidak memayungi visi keilmuan terkait program studi., 
+1. Skor x, di mana Skor x tersebut akan memberi keterangan (Indikator), bahwa Skor X dapat ditambahkan langsung oleh Pengguna yang disertai dengan tombol
+1. Skor 0, di mana Skor 0 tersebut akan memberikan keterangan (Indikator), bahwa misi, tujuan, dan strategi yang tidak terkait dengan strategi perguruan tinggi dan pengembangan program studi.
+1. Skor 1, di mana Skor 1 tersebut memiliki dua (2) Poin: Poin ke satu (1) memberikan keterangan (Indikator) bahwa visi yang mencerminkan visi perguruan tinggi namun tidak memayungi visi keilmuan terkait program studi. Poin ke dua (2) memberikan keterangan (Indikator) bahwa misi, tujuan, dan strategi kurang searah dengan misi, tujuan sasaran, dan strategi perguruan tinggi serta kurang mendukung pengembangan program studi. 
 1. Skor 2,di mana Skor 2 tersebut akan memberikan keterangan (Indikator) dari Poin Tab per Skor, bahwa 
 
 ## Accordion (v)
