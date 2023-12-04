@@ -4,7 +4,7 @@ description: Halaman yang akan memberikan Informasi tentang Kriteria 1
 ---
 
 ## Peranan Khusus Admin
-Maksud Peranan Khusus Admin disini adalah Tombol Peranan yang hanya ada di halaman Kriteria-Kriteria bagian Admin, untuk di halaman Kriteria-Kriteria bagian Pengguna tidak memiliki Tombol Peranan, dan fungsi dari Peranan Khusus Admin ini adalah untuk menentukan siapa yang berhak untuk Menambahkan Data Dokumen Poin per Skor.
+Maksud Peranan Khusus Admin disini adalah Tombol Peranan yang hanya ada di halaman Kriteria-Kriteria bagian Admin, untuk di halaman Kriteria-Kriteria bagian Pengguna tidak memiliki Tombol Peranan, dan fungsi dari Tombol Peranan Khusus Admin ini adalah untuk menentukan siapa yang berhak untuk Menambahkan Data Dokumen Poin per Skor, dan juga untuk Edit Data serta *Delete*/hapus Data.
 
 ## Tab Khusus Kriteria
 di dalam tab Khusus Kriteria ini terdapat dua (2) Menu yang dapat dipilih oleh Anda untuk melihat keterangan-keterangan (Indikator) dari masing-masing Elemen Kriteria dan keterangan (Indikator) poin-poin per Skor.
