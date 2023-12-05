@@ -1,6 +1,6 @@
 ---
-title: Informasi Kriteria 1
-description: Halaman yang akan memberikan Informasi tentang Kriteria 1
+title: Informasi Kriteria 10
+description: Halaman yang akan memberikan Informasi tentang Kriteria 10
 ---
 
 ## Peranan Khusus Admin
