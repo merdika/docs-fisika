@@ -3,13 +3,14 @@ title: Informasi Kriteria 1
 description: Halaman yang akan memberikan Informasi tentang Kriteria 1
 ---
 
-## Peranan Khusus Admin 
-Maksud Peranan Khusus Admin disini adalah Tombol Peranan yang hanya ada di halaman Kriteria bagian Admin, untuk di halaman Kriteria bagian Pengguna tidak memiliki Tombol Peranan, dan fungsi dari Tombol Peranan Khusus Admin ini adalah untuk menentukan siapa yang berhak untuk Menambahkan Data Dokumen Poin per Skor, dan juga untuk Edit Data serta *Delete*/hapus Data.
+## Tombol Peranan  
+Tombol Peranan ini merupakan Tombol yang hanya ada di halaman Kriteria bagian Admin, untuk di halaman Kriteria bagian Pengguna tidak memiliki Tombol Peranan, dan fungsi dari Tombol Peranan ini adalah untuk menentukan siapa yang berhak untuk Menambahkan Data Dokumen Poin per Skor, dan juga untuk Edit Data serta *Delete*/hapus Data.
 
-## Tab Khusus Kriteria
-Tab Khusus Kriteria ini memiliki dua (2) Menu yang dapat dipilih oleh Anda serta akan memberikan keterangan (Indikator).
-1. Menu Semua Elemen, di mana menu Semua elemen tersebut diklik maka menu Elemen tersebut akan memeberikan Elemennya saja yang disertai dengan Tombol Accordion (v) yang berada di bagian kanan jika Anda mengkliknya ia akan memberikan keterangan (Indikator) dari tiap-tiap Elemen Kriteria.
-1. Menu Indikator Skor 0, di mana Menu Indikator skor 0 tersebut akan langsung menampilkan keterangan (Indikator) dari masing-masing Elemen Kriteria yang di sertai dengan Tombol Action (...), fungsi dari tombol Action (...) ini adalah untuk mengarahkan/masuk ke halaman Indikator.
+## Tab Semua Elemen
+1. di mana Tab elemen tersebut diklik maka Tab Elemen tersebut akan memeberikan Elemennya saja yang disertai dengan Tombol Accordion (v) jika Anda mengkliknya ia akan memberikan keterangan (Indikator) dari tiap-tiap Elemen Kriteria.
+
+## Tab Indikator Skor 0
+1. di mana Tab Indikator skor 0 tersebut akan langsung menampilkan keterangan (Indikator) dari masing-masing Elemen Kriteria yang di sertai dengan Tombol Action (...), fungsi dari tombol Action (...) ini adalah untuk mengarahkan/masuk ke halaman Indikator.
 
 ## Tab Khusus Indikator
 Tab Khusus Indikator ini memiliki Enam (6) menu yang dapat dipilih oleh Anda serta seluruh menu tersebut akan memberikan keterangan (Indikator) dari Tab tiap poin per Skor.
