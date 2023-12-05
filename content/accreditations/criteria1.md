@@ -12,14 +12,9 @@ di dalam tab Khusus Kriteria ini memiliki dua (2) Menu yang dapat dipilih oleh A
 1. Menu Indikator Skor 0, di mana Menu Indikator skor 0 tersebut akan langsung menampilkan keterangan (Indikator) dari masing-masing Elemen Kriteria yang di sertai dengan Tombol Action (...) yang berada di bagian kanan, dan fungsi dari tombol Action (...) ini adalah untuk mengarahkan/masuk ke halaman Indikator.
 
 ## Tab Khusus Indikator
-Seluruh Tab Khusus Indikator memiliki 6 menu yang dapat dipilih oleh Anda untuk melihat keterangan (Indikator) dari Tab tiap poin per Skor.
+Seluruh Tab Khusus Indikator memiliki Enam (6) menu yang dapat dipilih oleh Anda serta seluruh menu tersebut akan memberikan keterangan (Indikator) dari Tab tiap poin per Skor.
 
-1. Skor x, di mana Skor x tersebut akan memberikan keterangan (Indikator), bahwa Skor X dapat ditambahkan langsung oleh Pengguna yang disertai dengan Tombol Simpan, fungsi dari Tombol Simpan ini adalah untuk memperlihatkan jumlah Skor dari masing-masing Poin per Skor.
-1. Skor *Zero* (0), di mana Skor *Zero* (0) tersebut akan memberikan keterangan (Indikator), bahwa misi, tujuan, dan strategi yang tidak terkait dengan strategi perguruan tinggi dan pengembangan program studi.
-1. Skor satu (1), di mana Skor satu (1) tersebut memiliki dua (2) Poin: Poin ke satu (1) memberikan keterangan (Indikator) bahwa visi yang mencerminkan visi perguruan tinggi namun tidak memayungi visi keilmuan terkait program studi. Poin ke dua (2) memberikan keterangan (Indikator) bahwa misi, tujuan, dan strategi kurang searah dengan misi, tujuan sasaran, dan strategi perguruan tinggi serta kurang mendukung pengembangan program studi. 
-1. Skor Dua (2), di mana Skor Dua (2) tersebut memiliki dua (2) Poin: Poin ke satu (1) memberikan keterangan (Indikator) bahwa  visi yang mencerminkan visi perguruan tinggi dan memayungi visi keilmuan terkait program studi. Poin ke dua (2) memberikan keterangan (Indikator) bahwa misi, tujuan, dan strategi yang searah dengan misi, tujuan, dan strategi perguruan tinggi serta mendukung pengembangan program studi.
-1. Skor Tiga (3), di mana Skor Tiga (3) tersebut memiliki dua (2) Poin: Poin ke satu (1) memberikan keterangan (Indikator) bahwa visi yang mencerminkan visi perguruan tinggi dan memayungi visi keilmuan terkait keunikan program studi. Poin ke dua (2) memberikan keterangan bahwa misi, tujuan, dan strategi yang searah dan bersinergi dengan misi, tujuan, dan strategi perguruan tinggi serta mendukung pengembangan program studi.
-1. Skor Empat (4), di mana Skor  Empat (4) tersebut memiliki dua (2) Poin: Poin ke satu (1) memberikan keterangan bahwa visi yang mencerminkan visi perguruan tinggi dan memayungi visi keilmuan terkait keunikan program studi serta didukung data implementasi yang konsisten. Poin ke dua (2) memberikan keterangan bahwa misi, tujuan, dan strategi yang searah dan bersinergi dengan misi, tujuan, dan strategi perguruan tinggi serta mendukung pengembangan program studi dengan data implementasi yang konsisten.
+Salah satu menu tersebut disertai dengan Tombol Simpan, fungsi dari Tombol Simpan tersebut akan menampilkan jumlah Skor dari masing-masing Poin per Skor.
 
 ## Accordion (v)
 Tombol Accordion merupakan Tombol yang akan memberikan keterangan (Indikator) dari masing-masing Elemen Keriteria setelah Anda mengkliknya.
