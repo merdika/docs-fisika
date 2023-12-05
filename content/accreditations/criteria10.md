@@ -8,11 +8,11 @@ Maksud Peranan Khusus Admin disini adalah Tombol Peranan yang hanya ada di halam
 
 ## Tab Khusus Kriteria
 Tab Khusus Kriteria ini memiliki dua (2) Menu yang dapat dipilih oleh Anda serta akan memberikan keterangan (Indikator).
-1. Menu Semua Elemen, di mana menu Semua elemen tersebut diklik maka menu Elemen tersebut akan memeberikan Elemennya saja yang disertai dengan Tombol Accordion (v) yang berada di bagian kanan jika Anda mengkliknya ia akan memberikan keterangan (Indikator) dari tiap-tiap Elemen Kriteria.
-1. Menu Indikator Skor 0, di mana Menu Indikator skor 0 tersebut akan langsung menampilkan keterangan (Indikator) dari masing-masing Elemen Kriteria yang di sertai dengan Tombol Action (...), fungsi dari tombol Action (...) ini adalah untuk mengarahkan/masuk ke halaman Indikator.
+1. Menu Semua Elemen, di mana menu Semua elemen tersebut diklik maka menu Elemen tersebut akan memeberikan Elemennya saja yang disertai dengan Tombol Accordion (v) setelah diklik ia akan memberikan keterangan (Indikator) dari tiap-tiap Elemen Kriteria.
+1. Menu Indikator Skor 0, di mana Menu Indikator skor 0 tersebut langsung menampilkan keterangan (Indikator) dari masing-masing Elemen Kriteria yang di sertai dengan Tombol Action (...), fungsi dari tombol Action (...) ini adalah untuk mengarahkan/masuk ke halaman Indikator.
 
 ## Tab Khusus Indikator
-Tab Khusus Indikator ini memiliki Enam (6) menu yang dapat dipilih oleh Anda serta seluruh menu tersebut akan memberikan keterangan (Indikator) dari Tab tiap poin per Skor.
+Tab Khusus Indikator ini memiliki Enam (6)  yang dapat dipilih oleh Anda serta seluruh menu tersebut akan memberikan keterangan (Indikator) dari Tab tiap poin per Skor.
 
 Salah satu menu tersebut disertai dengan Tombol Simpan, fungsi dari Tombol Simpan tersebut akan menampilkan jumlah Skor dari masing-masing Poin per Skor.
 
