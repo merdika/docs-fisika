@@ -12,9 +12,9 @@ Seluruh Tab Khusus Kriteria ini memiliki dua (2) Menu yang dapat dipilih oleh An
 1. Menu Indikator Skor 0, di mana Menu Indikator skor 0 tersebut akan langsung menampilkan keterangan (Indikator) dari masing-masing Elemen Kriteria yang di sertai dengan Tombol Action (...) yang berada di bagian kanan, dan fungsi dari tombol Action (...) ini adalah untuk mengarahkan/masuk ke halaman Indikator.
 
 ## Tab Khusus Indikator 
-Seluruh Tab Khusus Indikator ini memiliki 6 menu yang dapat dipilih oleh Anda untuk melihat keterangan (Indikator) dari Tab tiap poin per Skor.
+Seluruh Tab Khusus Indikator memiliki Enam (6) menu yang dapat dipilih oleh Anda serta seluruh menu tersebut akan memberikan keterangan (Indikator) dari Tab tiap poin per Skor.
 
-Salah satunya adalah menu Skor X yang disertai dengan Tombol Simpan, fungsi dari Tombol Simpan ini adalah untuk memperlihatkan jumlah Skor dari masing-masing Poin per Skor.
+Salah satu menu tersebut disertai dengan Tombol Simpan, fungsi dari Tombol Simpan tersebut akan menampilkan jumlah Skor dari masing-masing Poin per Skor.
 
 ## Accordion (v)
 Tombol Accordion merupakan Tombol yang akan memberikan keterangan (Indikator) dari masing-masing Elemen Keriteria setelah Anda mengkliknya.
