@@ -16,7 +16,7 @@ Tab Khusus Indikator ini memiliki Enam (6) menu yang dapat dipilih oleh Anda ser
 
 Salah satu menu tersebut disertai dengan Tombol Simpan, fungsi dari Tombol Simpan tersebut akan menampilkan jumlah Skor dari masing-masing Poin per Skor.
 
-## Tombol Accordion (v)
+## Tombol Accordion (v) 
 Tombol Accordion merupakan Tombol yang akan memberikan keterangan (Indikator) dari masing-masing Elemen Keriteria setelah Anda mengkliknya.
 
 ## Tombol Action (...) Khusus Kriteria  
