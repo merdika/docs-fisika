@@ -37,7 +37,7 @@ Tombol Tambah Khusus Indikator ini merupakan Tombol untuk menambahkan Data Dokum
 
 ## Tombol Action (...) Khusus Indikator
 
-Tombol Action (...) Khusus Indikator,  maka Tombol Action Khusus Indikator ini akan memberikan dua (2) pilihan yaitu:
+Tombol Action (...) Khusus Indikator, di mana Tombol Action (...) tersebut telah Anda Klik maka akan memberikan dua (2) pilihan yaitu:
 
 1. Edit Data, dimana Edit/Ubah Data ini hanya dapat diubah/diedit oleh orang yang Peranannya di beri tanda *Checkmark*/Centang.
 1. *Delete* Data, dimana *Delete*/Hapus Data ini hanya dapat dilakukan oleh orang yang Peranannya diberi tanda*Checkmark*/Centang, jika Anda yakin untuk menghapus Data tersebut maka Anda harus mengklik Tombol Oke, dan jika Anda ingin membatalkannya maka Anda harus mengklik Tombol Batal. 
