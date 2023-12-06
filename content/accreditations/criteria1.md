@@ -4,7 +4,7 @@ description: Halaman yang akan memberikan Informasi tentang Kriteria 1
 ---
 
 ## Tombol Peranan  
-Tombol Peranan ini merupakan Tombol yang hanya ada di halaman Kriteria bagian Admin, untuk di halaman Kriteria bagian Pengguna tidak memiliki Tombol Peranan, dan fungsi dari Tombol Peranan ini adalah untuk menentukan siapa yang berhak untuk Menambahkan Data Dokumen Poin per Skor, dan juga untuk Edit Data serta *Delete*/hapus Data.
+Tombol Peranan ini merupakan Tombol yang hanya ada pada halaman Kriteria bagian Admin, untuk di halaman Kriteria bagian Pengguna tidak memiliki Tombol Peranan, dan fungsi dari Tombol Peranan ini adalah untuk menentukan siapa yang berhak untuk Menambahkan Data Dokumen Poin per Skor, dan juga untuk Edit/Ubah Data serta *Delete*/hapus Data.
 
 ## Tab Semua Elemen
 1. di mana Tab elemen tersebut diklik maka Tab Elemen tersebut akan memeberikan Elemen Kriterianya saja,  yang disertai dengan Tombol Accordion (v) jika Anda mengkliknya ia akan memberikan keterangan (Indikator) dari tiap Elemen Kriteria.
