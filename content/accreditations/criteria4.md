@@ -1,6 +1,6 @@
 ---
-title: Informasi Kriteria 1
-description: Halaman yang akan memberikan Informasi tentang Kriteria 1
+title: Informasi Kriteria 4
+description: Halaman yang akan memberikan Informasi tentang Kriteria 4
 --- 
 
 ## Tombol Peranan  
