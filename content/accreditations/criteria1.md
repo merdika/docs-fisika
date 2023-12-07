@@ -13,7 +13,7 @@ Tombol Peranan ini merupakan Tombol yang hanya ada pada halaman Kriteria bagian 
 1. di mana Tab Indikator skor 0 tersebut akan langsung menampilkan keterangan (Indikator) dari masing-masing Elemen Kriteria yang di sertai dengan Tombol Action (...), fungsi dari tombol Action (...) ini adalah untuk mengarahkan/masuk ke halaman Indikator.
 
 ## Tab Khusus Indikator
-Seluruh Tab Khusus Indikator ini akan memberikan Keterangan (Indikator) dari tiap Tab per Skor, dan semua Tab Skor ini tidak memiliki perbedaan dalam memberikan keterangan (Indikator) Kecuali Tab Skor X, untuk Tab Skor X ini selain memberikan keterangan (Indikator) Tab Skor X ini di sertai dengan Kolom Skor, dan juga Tombol Simpan.
+Seluruh Tab Khusus Indikator ini akan memberikan Keterangan (Indikator) dari tiap Tab per Skor, dan semua Tab Skor ini tidak memiliki perbedaan dalam memberikan keterangan (Indikator) Kecuali Tab Skor X, untuk  Tab Skor X ini di sertai dengan Kolom Skor, dan juga Tombol Simpan.
 
 ## Kolom Skor
 Kolom Skor tersebut dapat di isi langsung oleh Pengguna (menambah/mengurangi Skor) cara pengisiannya dapat dengan cara diketik, dan juga dapat dengan cara mengklik Tombol yang telah tersedia di Kolom Skor.
