@@ -7,10 +7,10 @@ description: Halaman yang akan memberikan Informasi tentang Kriteria 3
 Tombol Peranan ini merupakan Tombol yang hanya ada pada halaman Kriteria bagian Admin, untuk di halaman Kriteria bagian Pengguna tidak memiliki Tombol Peranan, dan fungsi dari Tombol Peranan ini adalah untuk menentukan siapa yang berhak untuk Menambahkan Data Dokumen Poin per Skor, dan juga untuk Edit/Ubah Data serta *Delete*/hapus Data.
 
 ## Tab Semua Elemen
-1. di mana Tab elemen tersebut diklik maka Tab Elemen tersebut akan memeberikan Elemen Kriterianya saja,  yang disertai dengan Tombol Accordion (v) jika Anda mengkliknya ia akan memberikan keterangan (Indikator) dari tiap Elemen Kriteria, dan untuk masuk ke halaman Indikator cukup dengan mengklik bagian keterangan (indikator) dari tiap Elemen.
+1. di mana Tab elemen tersebut telah Anda klik maka Tab Elemen tersebut akan memeberikan Elemen Kriterianya saja,  yang disertai dengan Tombol Accordion (v) jika Anda mengkliknya ia akan memberikan keterangan (Indikator) dari tiap Elemen Kriteria, Jika semua Indikator sudah selesai maka cara untuk masuk ke halaman Indikator hanya ada satu (1) yaitu dengan cara mengklik bagian keterangan (Indikator), dan jika belum selesai maka cara untuk masuk ke halaman Indikator ada dua (2) yang pertama: dengan cara mengklik bagian keterangan (Indikator). yang kedua: dengan cara mengklik Tombol Action (...) dan mengklik Tombol detail yang telah diberikan oleh Tombol Action (...) yang berada di bagian Tab Skor 0.
 
 ## Tab Indikator Skor 0
-1. di mana Tab Indikator skor 0 tersebut akan langsung menampilkan keterangan (Indikator) dari masing-masing Elemen Kriteria yang di sertai dengan Tombol Action (...), fungsi dari tombol Action (...) ini adalah untuk mengarahkan/masuk ke halaman Indikator.
+Jika semua Indikator Telah selesai maka Tab Indikator Skor 0 ini hanya akan memberikan Informasi bahwa semua Indikator telah selesai, dan cara untuk melihat Indikator dari tiap Elemen Kriteria cukup dengan mengklik Tab Semua Elemen/mengklik keterangan yang memerintahkan untuk melihat semua Indikator yang telah selesai, yang nantinya akan masuk ke Tab Semua Elemen setelah Anda mengklik bagian keterangan yang memerintahkan untuk melihat semua Indikator yang telah selesai.
 
 ## Tab Khusus Indikator
 Seluruh Tab Khusus Indikator ini akan memberikan Keterangan (Indikator) dari tiap Tab per Skor, dan semua Tab Skor ini tidak memiliki perbedaan dalam memberikan keterangan (Indikator) Kecuali Tab Skor X, untuk  Tab Skor X ini di sertai dengan Kolom Skor, dan juga Tombol Simpan.
