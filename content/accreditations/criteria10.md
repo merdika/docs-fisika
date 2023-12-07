@@ -2,7 +2,7 @@
 title: Informasi Kriteria 10
 description: Halaman yang akan memberikan Informasi tentang Kriteria 10
 --- 
-
+ 
 ## Tombol Peranan  
 Tombol Peranan ini merupakan Tombol yang hanya ada pada halaman Kriteria bagian Admin, untuk di halaman Kriteria bagian Pengguna tidak memiliki Tombol Peranan, dan fungsi dari Tombol Peranan ini adalah untuk menentukan siapa yang berhak untuk Menambahkan Data Dokumen Poin per Skor, dan juga untuk Edit/Ubah Data serta *Delete*/hapus Data.
 
