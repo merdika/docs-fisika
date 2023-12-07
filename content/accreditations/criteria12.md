@@ -13,7 +13,7 @@ Tombol Peranan ini merupakan Tombol yang hanya ada pada halaman Kriteria bagian 
 1. di mana Tab Indikator skor 0 tersebut akan langsung menampilkan keterangan (Indikator) dari masing-masing Elemen Kriteria yang di sertai dengan Tombol Action (...), fungsi dari tombol Action (...) ini adalah untuk mengarahkan/masuk ke halaman Indikator.
 
 ## Tab Khusus Indikator
-Seluruh Tab Khusus Indikator ini akan memberikan Keterangan (Indikator) dari tiap Tab per Skor, dan semua Tab Skor ini tidak memiliki perbedaan dalam memberikan keterangan (Indikator) Kecuali Tab Skor X, untuk Tab Skor X ini selain memberikan keterangan (Indikator) Tab Skor X ini di sertai dengan Kolom Skor, dan juga Tombol Simpan.
+Seluruh Tab Khusus Indikator ini akan memberikan Keterangan (Indikator) dari tiap Tab per Skor, dan semua Tab Skor ini tidak memiliki perbedaan dalam memberikan keterangan (Indikator) Kecuali Tab Skor X, untuk  Tab Skor X ini di sertai dengan Kolom Skor, dan juga Tombol Simpan.
 
 ## Kolom Skor
 Kolom Skor tersebut dapat di isi langsung oleh Pengguna (menambah/mengurangi Skor) cara pengisiannya dapat dengan cara diketik, dan juga dapat dengan cara mengklik Tombol yang telah tersedia di Kolom Skor.
@@ -37,10 +37,10 @@ Tombol CheckBox ini merupakan Tombol yang akan menampilkan jumlah Skor dari tiap
 ## Tombol Tambah (+) Khusus Indikator
 Tombol Tambah Khusus Indikator ini merupakan Tombol untuk menambahkan Data Dokumen tiap Poin per Skor dan juga untuk Edit/Ubah Data serta *Delete*/Hapus Data, yang hanya dapat dilakukan oleh orang yang Peranannya di beri tanda *Checkmark*/Centang di bagian tombol Peranan Khusus Admin.
 
-## Link
-
 ## Tombol Action (...) Khusus Indikator
 Tombol Action (...) Khusus Indikator, di mana Tombol Action (...) tersebut telah Anda Klik maka akan memberikan dua (2) pilihan:
 
 1. Edit Data, dimana Edit/Ubah Data ini hanya dapat diubah/diedit oleh orang yang Peranannya di beri tanda *Checkmark*/Centang.
 1. *Delete* Data, dimana *Delete*/Hapus Data ini hanya dapat dilakukan oleh orang yang Peranannya diberi tanda*Checkmark*/Centang, jika Anda yakin untuk menghapus Data tersebut maka Anda harus mengklik Tombol Oke, dan jika Anda ingin membatalkannya maka Anda harus mengklik Tombol Batal. 
+
+
