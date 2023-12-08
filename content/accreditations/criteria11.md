@@ -1,4 +1,4 @@
----
+--- 
 title: Informasi Kriteria 11
 description: Halaman yang akan memberikan Informasi tentang Kriteria 11
 --- 
