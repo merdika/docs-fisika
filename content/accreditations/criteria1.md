@@ -7,10 +7,10 @@ description: Halaman yang akan memberikan Informasi tentang Kriteria 1
 Tombol Peranan ini merupakan Tombol yang hanya ada pada halaman Kriteria bagian Admin, untuk di halaman Kriteria bagian Pengguna tidak memiliki Tombol Peranan, dan fungsi dari Tombol Peranan ini adalah untuk menentukan siapa yang berhak untuk Menambahkan Data Dokumen Poin per Skor, dan juga untuk Edit/Ubah Data serta *Delete*/hapus Data.
 
 ## Tab Semua Elemen
-1. di mana Tab elemen tersebut diklik maka Tab Elemen tersebut akan memeberikan Elemen Kriterianya saja,  yang disertai dengan Tombol Accordion (v) jika Anda mengkliknya ia akan memberikan keterangan (Indikator) dari tiap Elemen Kriteria.
+di mana Tab elemen tersebut diklik maka Tab Elemen tersebut akan memeberikan Elemen Kriterianya saja,  yang disertai dengan Tombol Accordion (v) jika Anda mengkliknya ia akan memberikan keterangan (Indikator) dari tiap Elemen Kriteria, untuk masuk ke halaman Indikator dapat mengunakan/mengklik bagian keterangan (Indikator) yang berada di Tab Semua Elemen.
 
 ## Tab Indikator Skor 0
-1. di mana Tab Indikator skor 0 tersebut akan langsung menampilkan keterangan (Indikator) dari masing-masing Elemen Kriteria yang di sertai dengan Tombol Action (...), fungsi dari tombol Action (...) ini adalah untuk mengarahkan/masuk ke halaman Indikator.
+di mana Tab Indikator skor 0 tersebut akan langsung menampilkan keterangan (Indikator) dari masing-masing Elemen Kriteria yang di sertai dengan Tombol Action (...), setelah Tombol Action (...) tersebut diklik ia akan memberikan Tombol Detail fungsi dari tombol Detail ini adalah untuk mengarahkan/masuk ke halaman Indikator.
 
 ## Tab Khusus Indikator
 Seluruh Tab Khusus Indikator ini akan memberikan Keterangan (Indikator) dari tiap Tab per Skor, dan semua Tab Skor ini tidak memiliki perbedaan dalam memberikan keterangan (Indikator) Kecuali Tab Skor X, untuk  Tab Skor X ini di sertai dengan Kolom Skor, dan juga Tombol Simpan.
