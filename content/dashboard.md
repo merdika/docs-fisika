@@ -5,11 +5,11 @@ description: Memuat data statistik
 
 Modul Dasbor dalam aplikasi website fisika
 
-## Skor Total
+## Nilai Akhir
 
-Skor total merupakan jumlah skor yang diperoleh dari seluruh jumlah indikator dikalikan dengan nilai yang diperoleh dari masing-masing indikator itu sendiri.
+Nilai Akhir ini merupakan jumlah Nilai yang diperoleh dari seluruh jumlah indikator dikalikan dengan nilai yang diperoleh dari masing-masing indikator itu sendiri.
 
-## Bobot Total
+## Jumlah Skor
 
 | BAB/KRITERIA                                       | BOBOT BAB | BOBOT KRITERIA S |
 | -------------------------------------------------- | --------- | ---------------- |
