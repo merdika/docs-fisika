@@ -9,7 +9,7 @@ Modul Dasbor dalam aplikasi website fisika
 Nilai Akhir ini merupakan jumlah Nilai Akhir yang diperoleh dari seluruh jumlah indikator dikalikan dengan Nilai bobot yang diperoleh dari masing-masing Indikator itu sendiri.
 
 ## Jumlah Skor
-Jumlah Skor dijumlahkan dari seluruh Indikator.
+Jumlah Skor merupakan jumlah yang diperoleh dari seluruh Indikator.
 
 | BAB/KRITERIA                                       | BOBOT BAB | BOBOT KRITERIA S |
 | -------------------------------------------------- | --------- | ---------------- |
