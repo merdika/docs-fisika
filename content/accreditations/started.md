@@ -4,5 +4,5 @@ description: Halaman dokumentasi untuk Akreditasi Fisika
 ---
 
 ## Dokumentasi Akreditasi Fisika
-Dokumentasi Akreditasi Fisika ini merupakan pengumpulan, pemilihan, pengolahan, dan penyimpanan di masing-masing Kriteria.
+Dokumentasi Akreditasi Fisika ini merupakan pengumpulan, pemilihan, pengolahan, dan penyimpanan dari masing-masing Kriteria.
 
