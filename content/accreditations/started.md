@@ -12,11 +12,10 @@ Kriteria merupakan ukuran yang menjadi dasar penilaian atau penetapan terhadap s
 ## Kriteria satu (1)
 Kriteria satu (1) ini memiliki beberapa Tombol yang dapat diklik oleh Anda, dan dari masing-masing Tombol tersebut memiliki fungsi yang berbeda-beda.
 
-1. Tombol Peranan  
+## Tombol Peranan  
 Fungsi dari Tombol Peranan ini adalah untuk menentukan siapa yang berhak untuk Menambahkan Data Dokumen Poin per Skor, dan juga untuk Edit/Ubah Data serta *Delete*/hapus Data.
 
-1. Tab Semua Elemen:
-   
+## Tab Semua Elemen  
 Tab Semua Elemen merupakan salah satu cara untuk masuk ke Halaman Indikator dengan cara mengklik bagian keterangan (Indikator).
 
 ## Tab Indikator Skor 0
