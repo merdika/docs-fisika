@@ -36,7 +36,7 @@ Tombol CheckBox ini merupakan Tombol yang akan menampilkan jumlah Skor dari tiap
 
 ## Tombol Tambah (+) Khusus Indikator
 Tombol Tambah Khusus Indikator ini merupakan Tombol untuk menambahkan Data Dokumen tiap Poin per Skor dan juga untuk Edit/Ubah Data serta *Delete*/Hapus Data, yang hanya dapat dilakukan oleh orang yang Peranannya di beri tanda *Checkmark*/Centang di bagian tombol Peranan Khusus Admin.
-
+ 
 ## Link 
 Tautan untuk melihat atau mengunduh Dokumen
 
