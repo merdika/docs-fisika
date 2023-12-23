@@ -1,7 +1,7 @@
 ---
 title: Dokumentasi Akreditasi
 description: Halaman dokumentasi untuk Akreditasi Fisika
----
+--- 
 
 ## Dokumentasi Akreditasi Fisika
 Dokumentasi Akreditasi Fisika ini memiliki dua belas (12) Kriteria, dan satu (1) Ringkasan yang mencakup dari seluruh Kriteria.
