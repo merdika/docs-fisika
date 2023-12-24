@@ -7,13 +7,13 @@ description: Halaman dokumentasi untuk Akreditasi Fisika
 Dokumentasi Akreditasi Fisika ini akan memberikan Istilah dari seluruh Kriteria dan Ringkasan.
 
 ## Kriteria 
-Kriteria merupakan ukuran yang menjadi dasar penilaian atau penetapan terhadap sesuatu.
+Kriteria merupakan Ukuran yang menjadi dasar penilaian.
 
 ## Elemen
 Elemen merupakan bagian-bagian dasar yang mendasari Indikator.
 
 ## Indikator
- Indikator merupakan alat ukur dalam sebuah proses mencapai tujuan
+Indikator merupakan Alat ukur di dalam sebuah proses mencapai tujuan.
 
 ## Ringkasan
-Ringkasan merupakan kesimpulan-kesimpulan dari seluruh Indikator Kriteria
+Ringkasan merupakan kesimpulan dari seluruh Indikator Kriteria.
