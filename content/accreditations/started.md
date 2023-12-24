@@ -13,7 +13,7 @@ Kriteria merupakan Ukuran yang menjadi dasar penilaian.
 Elemen merupakan bagian-bagian dasar yang mendasari Indikator.
 
 ## Indikator
-Indikator merupakan Alat ukur di dalam sebuah proses mencapai tujuan.
+Indikator merupakan sebuah Alat ukur di dalam proses mencapai tujuan.
 
 ## Ringkasan
 Ringkasan merupakan kesimpulan dari seluruh Indikator Kriteria.
