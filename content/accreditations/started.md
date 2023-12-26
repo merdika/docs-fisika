@@ -16,4 +16,4 @@ Elemen merupakan bagian-bagian dasar untuk mendasari keterangan (Indikator).
 Indikator merupakan sebuah Alat ukur di dalam proses mencapai tujuan.
 
 ## Ringkasan
-Ringkasan merupakan kesimpulan dari seluruh Indikator Kriteria.
+Ringkasan merupakan kesimpulan dari seluruh keterangan (Indikator) Kriteria.
