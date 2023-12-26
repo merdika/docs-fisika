@@ -10,7 +10,7 @@ Dokumentasi Akreditasi Fisika ini akan memberikan Istilah dari seluruh Kriteria 
 Kriteria merupakan Ukuran yang menjadi dasar penilaian.
 
 ## Elemen
-Elemen merupakan bagian-bagian dasar yang mendasari Indikator.
+Elemen merupakan bagian-bagian dasar dari Kriteria.
 
 ## Indikator
 Indikator merupakan sebuah Alat ukur di dalam proses mencapai tujuan.
